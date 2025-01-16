@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python programming, artificial intelligence, and open-source projects
 - 🌱 I’m currently learning ML, biology, math, programming, 
 - 💞️ I’m looking to collaborate on Open-source Python projects or innovative ideas in automation and AI, ML
-- 📫 How to reach me telegram @Five_poods
+- 📫 How to reach me telegram  @space_crab_mut
 - 😄 Pronouns: He
 - ⚡ Fun fact: I can write code faster than I can make a cup of coffee. ☕ Or at least I try!
 
